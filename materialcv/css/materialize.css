@@ -4462,7 +4462,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 h1 {
-  font-size: 6.2rem !important;
+  font-size: 4.2rem;
   line-height: 110%;
   margin: 2.1rem 0 1.68rem 0;
 }
@@ -5145,7 +5145,7 @@ small {
 .btn-floating,
 .btn-large,
 .btn-flat {
-  font-size: 2rem;
+  font-size: 1rem;
   outline: 0;
 }
 
@@ -5376,7 +5376,7 @@ button.btn-floating {
 }
 
 .btn-large i {
-  font-size: 2.6rem;
+  font-size: 1.6rem;
 }
 
 .btn-block {
@@ -5670,9 +5670,8 @@ button.btn-floating {
   display: block;
   cursor: pointer;
   -webkit-tap-highlight-color: transparent;
-  font-size: 2rem;
-  min-height: 8rem;
-  line-height: 8rem;
+  min-height: 3rem;
+  line-height: 3rem;
   padding: 0 1rem;
   background-color: #fff;
   border-bottom: 1px solid #ddd;
