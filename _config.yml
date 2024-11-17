@@ -3,7 +3,7 @@ description: Yusuf Eren Utku's Personal Website
 baseurl: 
 url: https://yerenutku.github.io
 
-theme: hacked-jekyll
+remote_theme: piazzai/hacked-jekyll
 
 exclude:
   - LICENSE
