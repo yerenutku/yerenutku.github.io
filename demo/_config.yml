@@ -1,0 +1,19 @@
+title: YE Utku
+description: Yusuf Eren Utku's Personal Website
+baseurl: 
+url: https://yerenutku.github.io
+
+theme: hacked-jekyll
+
+exclude:
+  - LICENSE
+  - README.md
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  

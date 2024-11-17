@@ -1,0 +1,15 @@
+current directory: /Users/302784/Documents/yerenutku.github.io/demo/vendor/bundle/ruby/2.7.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/302784/.rvm/rubies/ruby-2.7.3/bin/ruby -I /Users/302784/.rvm/rubies/ruby-2.7.3/lib/ruby/2.7.0 -r ./siteconf20241117-91501-1a7dxzq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/302784/Documents/yerenutku.github.io/demo/vendor/bundle/ruby/2.7.0/gems/racc-1.8.1/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/302784/Documents/yerenutku.github.io/demo/vendor/bundle/ruby/2.7.0/gems/racc-1.8.1/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/302784/Documents/yerenutku.github.io/demo/vendor/bundle/ruby/2.7.0/gems/racc-1.8.1/ext/racc/cparse
+make "DESTDIR=" install
+/opt/homebrew/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20241117-91501-144tsw5/racc
