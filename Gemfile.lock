@@ -271,6 +271,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  github-pages
   hacked-jekyll (~> 3.0)
 
 BUNDLED WITH

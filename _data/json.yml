@@ -1,38 +1,43 @@
-- key: Name
+- key: 🏷️
   value: Yusuf Eren Utku
-- key: Description
+- key: 🗣️
   value:
-    - Hi, welcome!
-    - This is my little website
-    - Interested?
+    - Hi, welcome! 🙋‍♂️
+    - You’ve found my little website
+    - I am a Software Engineer 👨‍💻
+    - Basically, I argue with computers until apps happen 📲
+    - I also 🏊, 📚, 🎧, 🕺, 🚶, 🍲
   typed: true
-- key: CV
+- key: 🏡
+  value: The Hague, Netherlands
+- key: 📜
   value: cv.pdf
   url: /cv.pdf
-- key: Address
+- key: 📱
+  value: 
+    - value: Eneco
+      url: https://play.google.com/store/apps/details?id=com.afrogleap.eneco.myeneco&hl=en
+    - value: Oxxio
+      url: https://play.google.com/store/apps/details?id=com.tamtam.energie&hl=en
+    - value: Shackle
+      url: https://play.google.com/store/apps/details?id=com.exploreshackle.app&hl=en
+    - value: ING Mobile
+      url: https://play.google.com/store/apps/details?id=com.ingbanktr.ingmobil&hl=en
+    - value: ANWB Out and About
+      url: https://play.google.com/store/apps/details?id=com.themobilecompany.Fietsen&hl=nl
+- key: 🐶📱
+  value: 
+    - value: Drinking Games
+      url: https://play.google.com/store/apps/details?id=com.drinkinggames.android&hl=en
+    - value: Meme Maker
+      url: https://play.google.com/store/apps/details?id=com.mememaker.android&hl=en
+- key: 🕸️
   value:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
-- key: Contact
-  value:
-    - key: Office
-      value: Foobar Hall 1.23
-    - key: Phone
-      value: +1 234 567 890
-    - key: Email
-      value: username@domain.com
-      url: "mailto:username@domain.com"
-- key: Source
-  value: piazzai/hacked-jekyll
-  url: https://github.com/piazzai/hacked-jekyll
-- key: Profiles
-  value:
-    - value: Instagram
-      url: https://www.instagram.com
+    - value: Technical Blog
+      url: https://medium.com/@erenutku
     - value: LinkedIn
-      url: https://www.linkedin.com
+      url: https://www.linkedin.com/in/erenutku/
     - value: StackOverflow
-      url: https://stackoverflow.com
+      url: https://stackoverflow.com/users/4376058/eren-utku
     - value: GitHub
-      url: https://github.com
+      url: https://github.com/yerenutku

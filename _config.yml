@@ -16,4 +16,9 @@ plugins:
 
 sass:
   sourcemap: never
+
+color_hover: green-9
+
+quotes: values
+lowercase: keys
   
