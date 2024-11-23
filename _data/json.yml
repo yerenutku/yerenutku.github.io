@@ -1,37 +1,21 @@
-- key: 🏷️
+- key: 🏷️ name
   value: Yusuf Eren Utku
-- key: 🗣️
+- key: 🗣️ description
   value:
     - Hi, welcome! 🙋‍♂️
     - You’ve found my little website
     - I am a BSc Computer Engineer 👨‍💻
-    - Basically, I argue with computers until apps happen 📲
+    - I argue with computers until apps happen 📲
     - I also 🏊, 📚, 🎧, 🕺, 🚶, 🍲
   typed: true
-- key: 🏡
+- key: 💼 work
+  value: Eneco
+- key: 🏡 residence
   value: The Hague, Netherlands
-- key: 📜
+- key: 📜 background
   value: cv.pdf
   url: /cv/23112024YusufErenUtku.pdf
-- key: 📱
-  value: 
-    - value: Eneco
-      url: https://play.google.com/store/apps/details?id=com.afrogleap.eneco.myeneco&hl=en
-    - value: Oxxio
-      url: https://play.google.com/store/apps/details?id=com.tamtam.energie&hl=en
-    - value: Shackle
-      url: https://play.google.com/store/apps/details?id=com.exploreshackle.app&hl=en
-    - value: ING Mobile
-      url: https://play.google.com/store/apps/details?id=com.ingbanktr.ingmobil&hl=en
-    - value: ANWB Out and About
-      url: https://play.google.com/store/apps/details?id=com.themobilecompany.Fietsen&hl=nl
-- key: 🐶📱
-  value: 
-    - value: Drinking Games
-      url: https://play.google.com/store/apps/details?id=com.drinkinggames.android&hl=en
-    - value: Meme Maker
-      url: https://play.google.com/store/apps/details?id=com.mememaker.android&hl=en
-- key: 🕸️
+- key: 🕸️ links
   value:
     - value: Technical Blog
       url: https://medium.com/@erenutku
