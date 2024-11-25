@@ -1,21 +1,25 @@
-- key: 🏷️ name
+- key: name
   value: Yusuf Eren Utku
-- key: 🗣️ description
+- key: description
   value:
     - Hi, welcome! 🙋‍♂️
-    - You’ve found my little website
-    - I am a BSc Computer Engineer 👨‍💻
-    - I argue with computers until apps happen 📲
+    - You’ve found my little website 🕵️
+    - I am a Computer Engineer 👨‍💻
+    - In short, I argue with computers until apps happen 📲
     - I also 🏊, 📚, 🎧, 🕺, 🚶, 🍲
+    - Interested? 🤔
+    - Check my background for more 🧿
   typed: true
-- key: 💼 work
+- key: work
   value: Eneco
-- key: 🏡 residence
+- key: residence
   value: The Hague, Netherlands
-- key: 📜 background
+- key: education
+  value: BSc Computer Engineer, Selcuk University
+- key: background
   value: cv.pdf
   url: /cv/23112024YusufErenUtku.pdf
-- key: 🕸️ links
+- key: links
   value:
     - value: Technical Blog
       url: https://medium.com/@erenutku
