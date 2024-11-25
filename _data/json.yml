@@ -6,6 +6,7 @@
     - You’ve found my little website 🕵️
     - I am a Computer Engineer 👨‍💻
     - In short, I argue with computers until apps happen 📲
+    - I am interested in sustainability & clean energy! 🌍🧼⚡️
     - I also 🏊, 📚, 🎧, 🕺, 🚶, 🍲
     - Interested? 🤔
     - Check my background for more 🧿
@@ -14,8 +15,6 @@
   value: Eneco
 - key: residence
   value: The Hague, Netherlands
-- key: education
-  value: BSc Computer Engineer, Selcuk University
 - key: background
   value: cv.pdf
   url: /cv/23112024YusufErenUtku.pdf
