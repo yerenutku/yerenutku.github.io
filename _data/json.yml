@@ -14,13 +14,13 @@
 - key: work
   value: Eneco
 - key: residence
-  value: The Hague, Netherlands
+  value: The Hague, NL
 - key: background
   value: cv.pdf
   url: /cv/23112024YusufErenUtku.pdf
 - key: links
   value:
-    - value: Technical Blog
+    - value: Blog
       url: https://medium.com/@erenutku
     - value: LinkedIn
       url: https://www.linkedin.com/in/erenutku/
