@@ -1,5 +1,5 @@
 ---
-{% include_relative _includes/head-custom.html %}
+{% include head-custom.html %}
 layout: home
 ---
-
+{% include head-custom.html %}
